@@ -14,9 +14,11 @@ updated page icons with gifs for readyup/gify.
  added all of the links to respective projects on portfolio page. (.io/heroku and the github repos)
  ## link function
  To access the deployed site click on the picture.
- To access gihub repo click on the text below that.
+ To access gihub repo click on the text below that.  :slightly_smiling_face:
+ ----------------------------------------------------------------------------
 
-:slightly_smiling_face:
+seemed to have messed up contact page but its time to start wrapping up, will fix later!
+
 
 ## Portfolio link
 https://jacobhines91.github.io/Updated-Portfolio/
