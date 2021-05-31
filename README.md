@@ -17,7 +17,7 @@ updated page icons with gifs for readyup/gify.
  To access gihub repo click on the text below that.  :slightly_smiling_face:
  ----------------------------------------------------------------------------
 
-seemed to have messed up contact page but its time to start wrapping up, will fix later!
+
 
 
 ## Portfolio link
